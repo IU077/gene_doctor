@@ -15,6 +15,6 @@ Gene Doctor is a powerful bioinformatics tool designed to analyze and interpret 
 To install Gene Doctor, ensure you have Python installed on your system. Then, you can clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/genedoctor.git
+git clone https://github.com/IU077/gene_doctor.git
 cd genedoctor
 pip install -r requirements.txt
